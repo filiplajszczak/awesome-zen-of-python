@@ -3,7 +3,7 @@
 This is a collection of awesome resources related to 
 [the Zen of Python (PEP 20)](https://www.python.org/dev/peps/pep-0020/) 
 aka [The Python Way](https://mail.python.org/pipermail/python-list/1999-June/001951.html) 
-by [Tim Peters](https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer) 
+by [Tim Peters](https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer)) 
 
     Beautiful is better than ugly.
     Explicit is better than implicit.
