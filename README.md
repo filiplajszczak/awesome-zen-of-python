@@ -27,6 +27,7 @@ by [Tim Peters](https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer))
     
 * [Chaitanya Baweja: Contemplating the Zen of Python (article)](https://medium.com/better-programming/contemplating-the-zen-of-python-186722b833e5)
 * [Jonathan M. Hammond: A Brief Analysis of “The Zen of Python” (article)](https://medium.com/@Pythonidaer/a-brief-analysis-of-the-zen-of-python-2bfd3b76edbf)
+* [Raymond Hettinger: Beyond PEP 8 -- Best practices for beautiful intelligible code (talk)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 * [Abdur-Rahmaan Janhangeer: The Zen Of Python Is A Joke And Here Is Why (article)](https://dev.to/abdurrahmaanj/the-zen-of-python-is-a-joke-and-here-is-why-you-should-not-take-it-too-seriously-508d)
 * [Adrienne Lowe: The Zen of Python for Teams (talk)](https://www.youtube.com/watch?v=WZ8FEB4J8-c)
 * [Justin Mayer - Zen of Python Dependency Management (talk)](https://www.youtube.com/watch?v=asL0dbN6pAY)
