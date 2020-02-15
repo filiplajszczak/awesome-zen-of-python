@@ -48,4 +48,5 @@ by [Tim Peters](https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer))
 * [Bug #3364: I'm afraid you missed the joke](https://bugs.python.org/issue3364)
 
 ###### And now for something completely different
+* [that](https://github.com/pydanny/that)
 * [Zen of git](https://tdhopper.com/blog/zen-of-git/) 
