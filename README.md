@@ -47,6 +47,7 @@ by [Tim Peters](https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer))
   * [How to tell if implementing your Python code is a good idea](https://opensource.com/article/19/12/zen-python-implementation)
   * [Namespaces are the shamash candle of the Zen of Python](https://opensource.com/article/19/12/zen-python-namespaces)
 * [Bug #3364: I'm afraid you missed the joke](https://bugs.python.org/issue3364)
+* [Obey your Zen with wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)
 
 ###### And now for something completely different
 * [import that](https://github.com/pydanny/that)
