@@ -61,4 +61,5 @@ by [Tim Peters](https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer))
 
 ###### And now for something completely different
 * [import that](https://github.com/pydanny/that)
-* [Zen of git](https://tdhopper.com/blog/zen-of-git/) 
+* [Zen of git](https://tdhopper.com/blog/zen-of-git/)
+* [Zen of Python song, lyrics by Tim Peters 1999, music and arrangement by Barry Warsaw 2020](https://www.youtube.com/watch?v=i6G6dmVJy74)
