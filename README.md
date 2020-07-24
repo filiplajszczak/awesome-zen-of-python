@@ -27,6 +27,7 @@ by [Tim Peters](https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer))
     
 ### Articles
 * [Chaitanya Baweja: Contemplating the Zen of Python (article)](https://medium.com/better-programming/contemplating-the-zen-of-python-186722b833e5)
+* [Radomir Dopieralski: Zen of Python Considered Harmful (article)](http://sheep.art.pl/Zen%20of%20Python%20Considered%20Harmful)
 * [Jonathan M. Hammond: A Brief Analysis of “The Zen of Python” (article)](https://medium.com/@Pythonidaer/a-brief-analysis-of-the-zen-of-python-2bfd3b76edbf)
 * [Abdur-Rahmaan Janhangeer: The Zen Of Python Is A Joke And Here Is Why (article)](https://dev.to/abdurrahmaanj/the-zen-of-python-is-a-joke-and-here-is-why-you-should-not-take-it-too-seriously-508d)
 * [Reinout van Rees: “Complex” and “complicated” (article)](https://reinout.vanrees.org/weblog/2015/12/21/complex-complicated.html)
