@@ -56,6 +56,7 @@ by [Tim Peters](https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer))
 * [Obey your Zen with wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)
 
 ### Other
+* [Fundamental philosophies Django’s developers have used in creating the framework](https://docs.djangoproject.com/en/dev/misc/design-philosophies/)
 * [Yannis Rizos: Is the 14th line of The Zen of Python a reference to Dijkstra? (stackoverflow answer)](https://softwareengineering.stackexchange.com/a/148794)
 * [Bug #3364: I'm afraid you missed the joke](https://bugs.python.org/issue3364)
 
