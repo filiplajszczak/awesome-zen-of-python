@@ -42,6 +42,7 @@ by [Tim Peters](https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer))
   * [The Zen of Python: Why timing is everything](https://opensource.com/article/19/12/zen-python-timeliness)
   * [How to tell if implementing your Python code is a good idea](https://opensource.com/article/19/12/zen-python-implementation)
   * [Namespaces are the shamash candle of the Zen of Python](https://opensource.com/article/19/12/zen-python-namespaces)
+  * [The Zen of Python: As Related by Masters](https://dev.to/abdurrahmaanj/the-zen-of-python-as-related-by-masters-1p9i)
 
 ### Talks
 * [Raymond Hettinger: Beyond PEP 8 -- Best practices for beautiful intelligible code (talk)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
