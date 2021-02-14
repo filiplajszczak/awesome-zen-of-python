@@ -64,5 +64,6 @@ by [Tim Peters](https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer))
 
 ###### And now for something completely different
 * [import that](https://github.com/pydanny/that)
+* [PEP 8 song, written and performed by Leon Sandøy, A.K.A. lemonsaurus; music and melody from Mad World by Roland Orzabal](https://www.youtube.com/watch?v=hgI0p1zf31k)
 * [Zen of git](https://tdhopper.com/blog/zen-of-git/)
 * [Zen of Python song, lyrics by Tim Peters 1999, music and arrangement by Barry Warsaw 2020](https://www.youtube.com/watch?v=i6G6dmVJy74)
